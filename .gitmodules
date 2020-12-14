@@ -1,0 +1,3 @@
+[submodule "active-learning-framework"]
+	path = active-learning-framework
+	url = https://github.com/RovelMan/active-learning-framework.git
